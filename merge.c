@@ -1,5 +1,5 @@
 #include<stdio.h>
-intmain()
+void stack
 {
- int top,i
-
+ int enqueue,dequeue,i;
+ 
